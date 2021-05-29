@@ -1,0 +1,38 @@
+version: "3.1"
+
+services: 
+
+  db:
+    image: postgis/postgis
+    ports: 
+      - 5432:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234567
+      POSTGRES_DB: wpdb
+    volumes:
+      - postgres_data:/var/lib/postgresql/datanew  
+
+  web:
+    build: .
+    command: bash -c "npm i && npn run seed & npm run start"
+    depends_on: 
+      - db
+    ports:
+      - 3000:3000
+    links:
+      - db
+    restart: always  
+    working_dir: /src
+    environment:
+      POSTGRES_DB: wpdb
+      POSTGRES_DB_USER: postgres
+      POSTGRES_DB_PW: 1234567
+      PORT: 3000
+      DATABASE_URL: db
+    volumes:
+      - ./:/src
+
+volumes:
+    postgres_data:
+    

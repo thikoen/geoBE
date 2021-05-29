@@ -1,0 +1,5 @@
+[
+    {"name": "Test",
+     "fields": {"flammable": "BOOLEAN"}
+    }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="The Server" errors="0" tests="0" failures="0" time="0" timestamp="2020-12-10T18:03:33">
+</testsuite>
+<testsuite name="The Server.GET /" errors="0" tests="1" failures="0" time="0.077" timestamp="2020-12-10T18:03:33">
+  <testcase classname="The Server.GET /" name="returns status code 400" time="0.076"></testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Rohr",
+    "lon": "8.22368196",
+    "lat": "50.09269948",
+    "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Tank",
+    "lon": "8.22347713",
+    "lat": "50.09246692",
+    "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Tank",
+    "lon": "8.22306161",
+    "lat": "50.09264167",
+    "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Pumpe",
+    "lon": "8.22316258",
+    "lat": "50.09242386",
+    "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Gebäude",
+    "lon": "8.22277004",
+    "lat": "50.09252643",
+    "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Pumpe",
+    "lon": "8.22333821",
+    "lat": "50.09225505",
+    "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Gebäude",
+    "lon": "8.22381412",
+    "lat": "50.09259036",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Entsalzer",
+    "lon": "8.22261265",
+    "lat": "50.09266323",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Feuerlöscher",
+    "lon": "8.22285514",
+    "lat": "50.09219114",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Rohr",
+    "lon": "8.22373831",
+    "lat": "50.09253159",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Gebäude",
+    "lon": "8.22324768",
+    "lat": "50.09241621",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Feuerlöscher",
+    "lon": "8.22342786",
+    "lat": "50.09213871",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Pumpe",
+    "lon": "8.22320135",
+    "lat": "50.09217774",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Rohr",
+    "lon": "8.22394129",
+    "lat": "50.09210136",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Gebäude",
+    "lon": "8.22351565",
+    "lat": "50.09199103",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Gebäudeteil",
+    "lon": "8.22278308",
+    "lat": "50.09266105",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  },
+  {
+    "name": "Tank",
+    "lon": "8.22348834",
+    "lat": "50.09237766",
+      "description": "Das ist eine Beschreibung die etwas länger ist aber das kann ja mal passieren.",
+    "templateId": "1",
+    "customFields": "{\"flammable\": true}"
+  }
+]
